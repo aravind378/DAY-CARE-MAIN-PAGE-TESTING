@@ -59,7 +59,8 @@
 .offcanvas-body {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 20px;
+    font-size: 22px;
 }
 .offcanvas-body a {
     text-decoration: none;
